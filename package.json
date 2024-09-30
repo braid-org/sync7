@@ -1,0 +1,10 @@
+{
+  "name": "sync7",
+  "version": "0.0.0",
+  "description": "a text crdt",
+  "author": "Braid Working Group",
+  "repository": "braid-org/sync7",
+  "homepage": "https://braid.org",
+  "dependencies": {
+  }
+}
